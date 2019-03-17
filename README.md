@@ -1,3 +1,5 @@
 # phone-network
 
-Please look at Wiki page https://github.com/KutuzovaEkaterina/phone-network/wiki/Old-diagram
+Please look at the Wiki pages:
+* https://github.com/KutuzovaEkaterina/phone-network/wiki/Old-diagram
+* https://github.com/KutuzovaEkaterina/phone-network/wiki/New-diagram
